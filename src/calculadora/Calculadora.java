@@ -25,11 +25,11 @@ public class Calculadora {
         System.out.println("Ingrese el segundo número:");
         int b = sc.nextInt();
 
-      //  Suma suma = new Suma();
+        suma suma = new suma();
        // Division division = new Division();
        // Multiplicacion multiplicacion = new Multiplicacion();
 
-       // System.out.println("Suma: " + suma.calcular(a, b));
+        System.out.println("Suma: " + suma.calcular(a, b));
        // System.out.println("Division: " + division.calcular(a, b));
        // System.out.println("Multiplicación: " + multiplicacion.calcular(a, b));
 

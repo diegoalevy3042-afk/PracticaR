@@ -26,11 +26,11 @@ public class Calculadora {
         int b = sc.nextInt();
 
       //  Suma suma = new Suma();
-       // Resta resta = new Resta();
+       // Division division = new Division();
        // Multiplicacion multiplicacion = new Multiplicacion();
 
        // System.out.println("Suma: " + suma.calcular(a, b));
-       // System.out.println("Resta: " + resta.calcular(a, b));
+       // System.out.println("Division: " + division.calcular(a, b));
        // System.out.println("Multiplicación: " + multiplicacion.calcular(a, b));
 
         
